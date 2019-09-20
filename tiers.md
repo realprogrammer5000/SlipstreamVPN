@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="tiers">Tiers</h1>
 
 <table>
