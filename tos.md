@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="tos--privacy-policy">TOS &amp; Privacy Policy</h1>
 <h2 id="summary">Summary</h2>
 <blockquote>
