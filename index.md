@@ -47,5 +47,12 @@
 <td>Phone support (3 hour avg.)</td>
 <td>Phone support (1.5 hour response or refund)</td>
 </tr>
+<tr>
+<td>Purchase</td>
+<td><a href="http://invalid">Install it now</a></td>
+<td><a href="contact-us">Contact us</a></td>
+<td><a href="contact-us">Contact us</a></td>
+<td><a href="contact-us">Contact us</a></td>
+</tr>
 </tbody>
 </table>
