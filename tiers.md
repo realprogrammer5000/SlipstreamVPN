@@ -27,8 +27,8 @@
 </tr>
 <tr>
 <td>Data Cap</td>
-<td>1GB/month</td>
-<td>10GB/month</td>
+<td>5GB/month</td>
+<td>50GB/month</td>
 <td>1TB/month</td>
 <td>1TB free, $11.99/TB/month after</td>
 </tr>
