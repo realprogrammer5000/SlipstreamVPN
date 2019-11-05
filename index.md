@@ -49,7 +49,7 @@
 </tr>
 <tr>
 <td>Purchase</td>
-<td><a href="http://invalid">Install it now</a></td>
+<td><a href="https://chrome.google.com/webstore/detail/slipstreamvpn-proxy-unblo/gfhkjbaojklnhgbnkkicgojopompeaog">Install it now</a></td>
 <td><a href="contact-us">Contact us</a></td>
 <td><a href="contact-us">Contact us</a></td>
 <td><a href="contact-us">Contact us</a></td>
