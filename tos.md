@@ -80,7 +80,6 @@ However, we do not charge for our free plan because we make enough profit off of
 <ul>
 <li>We do not promise refunds, although we might offer them at our discretion.</li>
 <li>You are bound by the terms of our payment processors’ agreements, if applicable.</li>
-<li></li>
 </ul>
 <h3 id="limitations-to-our-promises">Limitations to our Promises</h3>
 <ul>
