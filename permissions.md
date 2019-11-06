@@ -7,4 +7,4 @@ We store persistent information, like whether you're connected or not, to help y
 ## webRequest & webRequestBlocking
 We need both of these to inject proxy authorization headers to our servers in order to connect to our servers.
 ## <all_urls>
-We need to be able to send proxy authorization headers for every site to allow VPN connections for every site. Chrome requires we give this permission to inject the headers.
+We need to be able to send proxy authorization headers for every site to allow VPN connections for every site. Chrome requires that we give this permission to inject the authorization headers.
