@@ -1,5 +1,5 @@
 # SlipStreamVPN
-## Simple, secure, private, no logs, blocks ads, fast, free.
+## Simple, secure, private, no logs, blocks ads, fast, and free.
 ### Simple
 [Install it now](#pricing), sign in and connect!
 
