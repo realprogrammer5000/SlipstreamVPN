@@ -1,58 +1,26 @@
-<h1 id="slipstreamvpn">SlipStreamVPN</h1>
-<h2 id="pricing">Pricing</h2>
+# SlipStreamVPN
+## Simple, secure, private, no logs, no ads, fast, free.
+### Simple
+[Install it now](#pricing), sign in and connect!
 
-<table>
-<thead>
-<tr>
-<th>Item</th>
-<th>Free Tier</th>
-<th>Paid</th>
-<th>Premium</th>
-<th>Custom</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Price</td>
-<td>$0/month</td>
-<td>$1.99/month</td>
-<td>$9.99/month</td>
-<td>$14.99/month</td>
-</tr>
-<tr>
-<td>Servers</td>
-<td>Huge Shared Server</td>
-<td>Shared server</td>
-<td>Private server in region you choose</td>
-<td>1 private free, $6.99/server/month after</td>
-</tr>
-<tr>
-<td>Data Cap</td>
-<td>5GB/month</td>
-<td>50GB/month</td>
-<td>1TB/month</td>
-<td>1TB free, $11.99/TB/month after</td>
-</tr>
-<tr>
-<td>Bandwidth</td>
-<td>10Mbit/s</td>
-<td>100Mbit/s</td>
-<td>1.5Gbit/s</td>
-<td>1.5Gbit/server/second</td>
-</tr>
-<tr>
-<td>Support</td>
-<td>Email (2 day avg. response time)</td>
-<td>Email (10 hour avg.)</td>
-<td>Phone support (3 hour avg.)</td>
-<td>Phone support (1.5 hour response or refund)</td>
-</tr>
-<tr>
-<td>Purchase</td>
-<td><a href="https://chrome.google.com/webstore/detail/slipstreamvpn-proxy-unblo/gfhkjbaojklnhgbnkkicgojopompeaog">Install it now</a></td>
-<td><a href="contact-us">Contact us</a></td>
-<td><a href="contact-us">Contact us</a></td>
-<td><a href="contact-us">Contact us</a></td>
-</tr>
-</tbody>
-</table>
+### Secure
+Your connection (even to HTTP sites)	is encrypted with SHA256 RSA and TLS v1.3 (the same encryption that connects you to online banking sites) with certificate transparency via LetsEncrypt.
+
+### Private & No Logs
+We only store the minimum amount of data needed to keep our services secure, cheap and running. You can find out more at our  [Terms of Service and privacy policy](tos).
+
+### No Ads
+We prevent connections to over 36000 known ad & tracking sites at the server for more performant blocking than browser-based blocking extensions.
+
+### Fast
+Even our free plans allow for enough bandwidth to stream 2 simultaneous HD videos with low latency. Paid plans allow for even faster speeds.
+
+## Pricing
+|Item       |Free Tier                        |Paid                    |Premium                             |Custom                                      |
+|-----------|---------------------------------|------------------------|------------------------------------|--------------------------------------------|
+|Price      |$0/month                         |$1.99/month             |$9.99/month                         |$14.99/month                                |
+|Servers    |Huge Shared Server               |Shared server           |Private server in region you choose |1 private free, $6.99/server/month after    |
+|Data Cap   |5GB/month                        |50GB/month              |1TB/month                           |1TB free, $11.99/TB/month after             |
+|Bandwidth  |10Mbit/s                         |100Mbit/s               |1.5Gbit/s                           |1.5Gbit/server/second                       |
+|Support    |Email (2 day avg. response time) |Email (10 hour avg.)    |Phone support (3 hour avg.)         |Phone support (1.5 hour response or refund) |
+|Purchase   |[Install it now](http://invalid) |[Contact us](contact-us)|[Contact us](contact-us)            |[Contact us](contact-us)                    |
