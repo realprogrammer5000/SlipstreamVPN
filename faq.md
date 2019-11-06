@@ -21,3 +21,6 @@ Donations, free trial credits, and paid tiers support the free tiers entirely. B
 
 ## Can I use your services to torrent illegal content?
 No. See our [TOS](tos).
+
+## Why do you need to "read and change all my data on the websites I visit"?
+This is a message displayed by Chrome when we request the permissions we need for the extension to work. We have [a full explanation of the permissions we use] if you'd like to know more.
