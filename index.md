@@ -16,6 +16,7 @@ We prevent connections to over 36000 known ad & tracking sites at the server for
 Even our free plans allow for enough bandwidth to stream 2 simultaneous HD videos with low latency. Paid plans allow for even faster speeds.
 
 ## Pricing
+
 |Item       |Free Tier                        |Paid                    |Premium                             |Custom                                      |
 |-----------|---------------------------------|------------------------|------------------------------------|--------------------------------------------|
 |Price      |$0/month                         |$1.99/month             |$9.99/month                         |$14.99/month                                |
