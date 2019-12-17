@@ -11,13 +11,13 @@ No. In fact, we block over 36,000 known ad and tracking sites. If an ad gets thr
 
 ## Why do you require a Google account to sign up? Can I sign up anonymously?
 We require a Google account sign in to ensure that our services are not abused (eg. duplicate accounts, as burner emails are much easier to create and use than google accounts). We do not store or have access to any data associated with your google account except your name, email, and profile picture. This data is not connected with or cross-referenced to anything.
-If you would like to sign up with an email and password, [choose a paid plan](index#pricing). If you have special requirements or would like an alternate form of login, [send us an email](contact-us).
+If you would like to sign up with an email and password, [choose a paid plan](index#pricing). If you have special requirements or would like an alternate or more anonymous form of login, [send us an email](contact-us).
 
 ## Chrome is giving me an error message: "The proxy ... requires a username and password."
 This is a temporary problem that is usually solved by dismissing the dialog, or failing that, disconnecting and reconnecting. It could also be a problem with your internet connection. If the problem persists, [send us an email](contact-us).
 
 ## How do you make money?
-Donations, free trial credits from our webhost, and paid tiers support the free tiers entirely. Because of this, we do not attempt to make any money from the free plans, so we do have to limit them more aggressively than other plans to ensure that they can stay free. If you'd like to donate to us,  [send us an email](contact-us). We're not picky.
+Donations, free trial credits from our webhost, and paid tiers support the free tiers entirely. Because of this, we do not attempt to make any money from the free plans, so we do have to limit them more aggressively than other plans to ensure that they can stay free. If you'd like to donate to us,  [send us an email](contact-us). 
 
 ## Can I use your services to access illegal content?
 No. See our [TOS](tos).
@@ -29,7 +29,7 @@ This is a message displayed by Chrome when we request the permissions we need fo
 Bottom line, nobody can see what sites you're accessing or what you're doing on them. We encrypt web traffic with the same protocol that encrypts HTTPS, so it looks like HTTPS traffic to most web filters and monitors. It is possible that someone would recognize the IP address of one of our servers as from us and therefore realize that you're using a VPN, so we cannot guarantee that nobody will know you are using a VPN.
 
 ## How secure are your servers? What happens if you're hacked?
-We try our best to secure our servers using industry-standard technologies and best practices, although we cannot mention specifically how. All of your communications are encrypted with [Perfect Forward Secrecy](https://en.wikipedia.org/wiki/Forward_secrecy) to ensure that even if someone records your encrypted communications and later steals a key from us, they cannot unencrypt your communications. If we are hacked, we will attempt to stop the attack as soon as possible and restore our services as soon as we can. We will inform you if such an attack occurs.
+We try our best to secure our servers using industry-standard technologies and best practices, although we cannot mention specifically how. All of your communications are encrypted with [Perfect Forward Secrecy](https://en.wikipedia.org/wiki/Forward_secrecy) as to ensure that even if someone records your encrypted communications and later steals a key from us, they cannot decrypt your communications. If we are hacked, we will attempt to stop the attack as soon as possible and restore our services as soon as we can. We will inform you if such an attack occurs.
 
 ## Where are your services hosted?
 Our servers are hosted in New York City via DigitalOcean, with more locations coming soon:tm:.
