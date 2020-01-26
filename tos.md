@@ -35,7 +35,7 @@ However, we do not charge for our free plan because we make enough profit off of
 <li>We do not discriminate against or modify traffic that is not in violation of our agreement.
 <ul>
 <li>In other words, <strong>we support net neutrality</strong>.</li>
-<li>We do not throttle / slow down sites ununiformly.</li>
+<li>We do not throttle / slow down sites nonuniformly.</li>
 <li>We do not block sites except ad and tracking ones.</li>
 <li>We do not inject ads or trackers, view or modify requests, metadata or cookies, or anything like that.</li>
 </ul>
