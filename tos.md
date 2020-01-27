@@ -3,9 +3,11 @@
 <p>The full history of this document (as well as this whole site) is available <a href="https://github.com/realprogrammer5000/vpn-site">on Github</a>.</p>
 </blockquote>
 <h2 id="how-do-we-offer-a-free-vpn-how-do-we-make-money">How do we offer a free VPN? How do we make money?</h2>
-<p>With most free VPNs, your data is the product. (“If you’re not at the table, you’re on the menu”)<br>
-Servers cost money (<a href="https://www.reddit.com/r/webdev/comments/89ff8l/why_is_aws_so_outrageously_expensive/">especially ones that use a lot of bandwidth</a> like VPNs). Most providers are forced to charge money to recover the cost of hosting the VPN.<br>
-However, we do not charge for our free plan because we make enough profit off of paid users to cover the expenses incurred by non-paying users. We limit the capabilities of non-paid plans to ensure that this balance is maintained. Our excellent webhost <a href="https://m.do.co/c/53c97f26445b">DigitalOcean</a> allows this to be profitable by charging very reasonable prices for bandwidth. Because of this model, we do not need to sell data and can give you confidence with our no-logging policy you can read about below.</p>
+<ul>
+<li>With most free VPNs, your data is the product. (“If you’re not at the table, you’re on the menu”)</li>
+<li>Servers cost money (<a href="https://www.reddit.com/r/webdev/comments/89ff8l/why_is_aws_so_outrageously_expensive/">especially ones that use a lot of bandwidth</a> like VPNs). Most providers are forced to charge money to recover the cost of hosting the VPN.</li>
+<li>We have a free plan because we make enough money from paid users to cover the expenses incurred by non-paying users. We limit the capabilities of non-paid plans to ensure that this balance is maintained. Our excellent webhost <a href="https://m.do.co/c/53c97f26445b">DigitalOcean (affiliate link)</a> allows this to be profitable by charging very reasonable prices for bandwidth. Because of this model, we do not need to sell data and can give you confidence with our no-logging policy you can read about below.</li>
+</ul>
 <h2 id="what-we-promise-you">What we promise you</h2>
 <blockquote>
 <p>Log means to write data to disk or any permanent location, including sending across a network. This does not include data stored in memory (RAM) or system swap. Some data may be stored temporarily in memory (ie. RAM or swap) as a consequence of how our servers work, but it is not stored permanently and expires (ie. is no longer in memory or swap) in an hour or less.</p>
@@ -14,10 +16,10 @@ However, we do not charge for our free plan because we make enough profit off of
 <li><strong>We will not log your private data (as long as you follow the terms of this agreement)</strong>:
 <ul>
 <li>The websites you visit and what you do there</li>
-<li>The addresses that you connect from and how long you do</li>
+<li>The IP addresses that you connect from and how long you do</li>
 <li>Your data usage in time increments less than 30s
 <ul>
-<li>Your data usage in bytes as you use it is stored in-memory and is collected and added to your stored data usage in our database every 30 seconds. We do not store any past history of data usage and your data usage is reset every month.</li>
+<li>Your data usage (in bytes transferred) as you use it is stored in-memory on our servers and is collected and added to your stored data usage in our database every 30 seconds. We do not store any past history of data usage and your data usage is reset every month.</li>
 </ul>
 </li>
 <li>We will never give any information you give to us to anyone unless legally required to do.
@@ -30,16 +32,21 @@ However, we do not charge for our free plan because we make enough profit off of
 </li>
 </ul>
 </li>
-<li>We will do our best to keep our stuff up &amp; running, but we cannot guarantee uptime, availability or a lack of bugs in our services or software</li>
-<li>We will limit your data bandwidth (ie. how fast it can go) and your data cap usage (ie. how much data you can use) to keep it fair for everyone else. Servers aren’t free and bandwidth isn’t either. If you want faster speeds or a higher data cap, purchase a higher tier or contact us.</li>
+<li>We will do our best to keep our services up &amp; running, but we cannot guarantee uptime, availability or a lack of bugs in our services or software.</li>
+<li>We will limit your data bandwidth (ie. how fast it can go) and your data cap usage (ie. how much data you can use) to keep it fair for everyone else in accordance to your account’s pricing tier. Servers aren’t free and bandwidth isn’t either. If you want faster speeds or a higher data cap, purchase a higher tier or <a href="contact-us">contact us</a>.</li>
 <li>We do not discriminate against or modify traffic that is not in violation of our agreement.
 <ul>
-<li>In other words, <strong>we support net neutrality</strong>.</li>
 <li>We do not throttle / slow down sites nonuniformly.</li>
 <li>We do not block sites except ad and tracking ones.</li>
 <li>We do not inject ads or trackers, view or modify requests, metadata or cookies, or anything like that.</li>
 </ul>
 </li>
+</ul>
+<h2 id="paid-plans">Paid Plans</h2>
+<ul>
+<li>You can cancel your subscription…</li>
+<li>We do not promise refunds, although we might offer them at our discretion. If you would like a refund</li>
+<li>You are bound by the terms of our payment processors’ agreements, if applicable.</li>
 </ul>
 <h2 id="what-you-promise-us">What you promise us</h2>
 <ul>
@@ -71,11 +78,6 @@ However, we do not charge for our free plan because we make enough profit off of
 <ul>
 <li>We may choose to perform no action, warn you, terminate your account, or increase your data cap usage or other account action.</li>
 <li>We won’t always inform people when they have broken their terms of the agreement.</li>
-</ul>
-<h3 id="paid-plans">Paid Plans</h3>
-<ul>
-<li>We do not promise refunds, although we might offer them at our discretion.</li>
-<li>You are bound by the terms of our payment processors’ agreements, if applicable.</li>
 </ul>
 <h2 id="limitations-to-our-promises">Limitations to our Promises</h2>
 <ul>
