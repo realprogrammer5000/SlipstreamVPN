@@ -44,9 +44,18 @@
 </ul>
 <h2 id="paid-plans">Paid Plans</h2>
 <ul>
-<li>You can cancel your subscription…</li>
-<li>We do not promise refunds, although we might offer them at our discretion. If you would like a refund</li>
-<li>You are bound by the terms of our payment processors’ agreements, if applicable.</li>
+<li>You can cancel your subscription anytime you want.</li>
+<li>We do not promise refunds for plans cancelled any time, although we might offer them at our discretion. If you would like a refund, <a href="contact-us">contact us</a></li>
+<li>You are bound by the terms of our payment processors’ agreements, if applicable. We currently use <a href="https://stripe.com">Stripe</a>, although this could change in the future.</li>
+</ul>
+<h3 id="price-changes">Price changes</h3>
+<ul>
+<li>We might change the prices or features of our plans, or even remove existing plans or add new ones.</li>
+<li>Existing customers will be “grandfathered in” – keeping existing plan prices and gaining new features whenever possible.
+<ul>
+<li>If we decide this isn’t possible, users of old plans will get the option to switch to the plan we decide is closest (and pay old prices!).</li>
+</ul>
+</li>
 </ul>
 <h2 id="what-you-promise-us">What you promise us</h2>
 <ul>
@@ -55,6 +64,7 @@
 <ul>
 <li>No DoS / DDoS of our services or using our services to DoS / DDoS other sites</li>
 <li>No fraudulent / scam activity</li>
+<li>Only pay with payment that you are allowed to use</li>
 <li>No illegal activity</li>
 <li>No rebranding, reselling, renting, leasing, loaning or bartering our services without our permission</li>
 <li>No breaking copyright laws (“piracy”)</li>
@@ -74,10 +84,10 @@
 <p>You assume full legal responsibility for all traffic originating from your account, including ensuring you follow all applicable laws and agreements with any applicable parties to the fullest extent of the law.</p>
 </li>
 </ul>
-<h2 id="if-you-break-your-promise">If you break your promise</h2>
+<h2 id="if-you-break-your-promises">If you break your promises</h2>
 <ul>
-<li>We may choose to perform no action, warn you, terminate your account, or increase your data cap usage or other account action.</li>
-<li>We won’t always inform people when they have broken their terms of the agreement.</li>
+<li>We may choose to perform no action, warn you, terminate your account, increase your data cap usage or other account action.</li>
+<li>We won’t always inform you when you have broken their terms of the agreement or when we have taken action.</li>
 </ul>
 <h2 id="limitations-to-our-promises">Limitations to our Promises</h2>
 <ul>
