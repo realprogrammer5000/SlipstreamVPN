@@ -1,4 +1,5 @@
 > [Go home](/)
+
 # FAQ
 ## Technical / Troubleshooting
 ### It refuses to connect or frequently disconnects.
