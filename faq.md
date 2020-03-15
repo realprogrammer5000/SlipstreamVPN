@@ -6,14 +6,14 @@ It is possible that the VPN is blocked on your network. If the issue still occur
 ### Chrome is giving me an error message: "The proxy ... requires a username and password."
 This is a temporary problem that is usually solved by dismissing the dialog, or failing that, disconnecting and reconnecting. It could also be a problem with your internet connection. If the problem persists, [send us an email](contact-us).
 
-### Why do you need to "read and change all my data on the websites I visit"?
+### Why do you need to "read and change all my dat a on the websites I visit"?
 This is a message displayed by Chrome when we request the permissions we need for the extension to work. We have [a full explanation of the permissions we use](permissions) if you'd like to know more.
 
 ### Can someone who's snooping on my web traffic see what sites I'm accessing or that I'm using a VPN?
 Bottom line, nobody can see what sites you're accessing or what you're doing on them. We encrypt web traffic with the same protocol that encrypts HTTPS, so it looks like HTTPS traffic to most web filters and monitors. It is possible that someone would recognize the IP address of one of our servers as from us and therefore realize that you're using a VPN, so we cannot guarantee that nobody will know you are using a VPN.
 
 ### How secure are your servers? What happens if you're hacked?
-We try our best to secure our servers using industry-standard technologies and best practices, although we cannot mention specifically how. All of your communications are encrypted with [Perfect Forward Secrecy](https://en.wikipedia.org/wiki/Forward_secrecy) as to ensure that even if someone records your encrypted communications and later steals a key from us, they cannot decrypt your communications. If we are hacked, we will attempt to stop the attack as soon as possible and restore our services as soon as we can. We will inform you if such an attack occurs.
+We try our best to secure our servers using industry-standard technologies and best practices, although we cannot mention specifically how. All of your communications are encrypted with [Perfect Forward Secrecy](https://en.wikipedia.org/wiki/Forward_secrecy) as to ensure that even if someone records your encrypted communications and later steals a key from us, they cannot decrypt your past communications. If we become aware of a security breach, we will attempt to stop the attack as soon as possible and restore our services as soon as we can. We will inform you if such an attack occurs.
 
 ### Where are your services hosted?
 Our servers are hosted in New York City via DigitalOcean, with more locations coming soon:tm:.
