@@ -3,7 +3,7 @@
 </blockquote>
 <h1 id="tos--privacy-policy">TOS &amp; Privacy Policy</h1>
 <blockquote>
-<p>The full history of this document (as well as this whole site) is available <a href="https://github.com/realprogrammer5000/vpn-site">on Github</a>.</p>
+<p>The full history of this document (as well as this whole site) is available <a href="https://github.com/realprogrammer5000/SlipstreamVPN">on Github</a>.</p>
 </blockquote>
 <h2 id="how-do-we-offer-a-free-vpn-how-do-we-make-money">How do we offer a free VPN? How do we make money?</h2>
 <ul>
