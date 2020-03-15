@@ -1,3 +1,5 @@
+> [Go home](/)
+
 # What Chrome extension permissions do we use? Why do we use them?
 
 ## proxy
