@@ -1,3 +1,6 @@
+<blockquote>
+<p><a href="/">Go home</a></p>
+</blockquote>
 <h1 id="tos--privacy-policy">TOS &amp; Privacy Policy</h1>
 <blockquote>
 <p>The full history of this document (as well as this whole site) is available <a href="https://github.com/realprogrammer5000/vpn-site">on Github</a>.</p>
@@ -36,7 +39,7 @@
 <li>We will limit your data bandwidth (ie. how fast it can go) and your data cap usage (ie. how much data you can use) to keep it fair for everyone else in accordance to your account’s pricing tier. Servers aren’t free and bandwidth isn’t either. If you want faster speeds or a higher data cap, purchase a higher tier or <a href="contact-us">contact us</a>.</li>
 <li>We do not discriminate against or modify traffic that is not in violation of our agreement.
 <ul>
-<li>We do not throttle / slow down sites nonuniformly.</li>
+<li>We do not throttle / slow down sites nuniformly.</li>
 <li>We do not block sites except ad and tracking ones.</li>
 <li>We do not inject ads or trackers, view or modify requests, metadata or cookies, or anything like that.</li>
 </ul>
@@ -47,13 +50,14 @@
 <li>You can cancel your subscription anytime you want.</li>
 <li>We do not promise refunds for plans cancelled any time, although we might offer them at our discretion. If you would like a refund, <a href="contact-us">contact us</a></li>
 <li>You are bound by the terms of our payment processors’ agreements, if applicable. We currently use <a href="https://stripe.com">Stripe</a>, although this could change in the future.</li>
+<li>We accept Visa, Mastercard, American Express, Discover, and Diners Club cards, as well as cards based on these.</li>
 </ul>
 <h3 id="price-changes">Price changes</h3>
 <ul>
 <li>We might change the prices or features of our plans, or even remove existing plans or add new ones.</li>
 <li>Existing customers will be “grandfathered in” – keeping existing plan prices and gaining new features whenever possible.
 <ul>
-<li>If we decide this isn’t possible, users of old plans will get the option to switch to the plan we decide is closest (and pay old prices!).</li>
+<li>If we decide this isn’t possible, users of old plans will get the option to switch to the plan we decide is closest (and pay old prices!)</li>
 </ul>
 </li>
 </ul>
@@ -87,7 +91,7 @@
 <h2 id="if-you-break-your-promises">If you break your promises</h2>
 <ul>
 <li>We may choose to perform no action, warn you, terminate your account, increase your data cap usage or other account action.</li>
-<li>We won’t always inform you when you have broken their terms of the agreement or when we have taken action.</li>
+<li>We won’t always inform you when hey have broken their terms of the agreement or when we have taken action.</li>
 </ul>
 <h2 id="limitations-to-our-promises">Limitations to our Promises</h2>
 <ul>
