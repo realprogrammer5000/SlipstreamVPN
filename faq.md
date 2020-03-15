@@ -16,7 +16,7 @@ Bottom line, nobody can see what sites you're accessing or what you're doing on 
 We try our best to secure our servers using industry-standard technologies and best practices, although we cannot mention specifically how. All of your communications are encrypted with [Perfect Forward Secrecy](https://en.wikipedia.org/wiki/Forward_secrecy) as to ensure that even if someone records your encrypted communications and later steals a key from us, they cannot decrypt your past communications. If we become aware of a security breach, we will attempt to stop the attack as soon as possible and restore our services as soon as we can. We will inform you if such an attack occurs.
 
 ### Where are your services hosted?
-Our servers are hosted in New York City via DigitalOcean, with more locations coming soon:tm:.
+Our servers are hosted in New York City via DigitalOcean, with more locations coming soon™.
 
 ## Throttling / Logging / Service Rules
 ###  Do you block or throttle traffic based on protocol or site? Are you torrent-friendly?
