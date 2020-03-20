@@ -25,5 +25,4 @@ Even our free plans allow for enough bandwidth to stream 2 simultaneous HD video
 |Support    |Email (2 day avg. response time) |Email (10 hour avg.)    |Phone support (3 hour avg.)         |Phone support (1.5 hour response or refund) |
 |Purchase   |[Install it now](https://chrome.google.com/webstore/detail/slipstreamvpn-proxy-unblo/gfhkjbaojklnhgbnkkicgojopompeaog) |[Contact us](contact-us)|[Contact us](contact-us)            |[Contact us](contact-us)                    |
 
-
 > [FAQ](faq)
