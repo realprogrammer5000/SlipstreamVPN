@@ -19,7 +19,7 @@ Even our free plans allow for enough bandwidth to stream 2 simultaneous HD video
 |Item       |Free Tier                        |Paid                    |Premium                             |Custom                                      |
 |-----------|---------------------------------|------------------------|------------------------------------|--------------------------------------------|
 |Price      |$0/month                         |$1.99/month             |$9.99/month                         |$14.99/month                                |
-|Servers    |Huge Shared Server               |Shared server           |Private server in region you choose |1 private free, $6.99/server/month after    |
+|Servers    |Shared Server                    |Premium Shared server   |Private server in region you choose |1 private free, $6.99/server/month after    |
 |Data Cap   |5GB/month                        |50GB/month              |1TB/month                           |1TB free, $11.99/TB/month after             |
 |Bandwidth  |10Mbit/s                         |100Mbit/s               |1.5Gbit/s                           |1.5Gbit/server/second                       |
 |Support    |Email (2 day avg. response time) |Email (10 hour avg.)    |Phone support (3 hour avg.)         |Phone support (1.5 hour response or refund) |
