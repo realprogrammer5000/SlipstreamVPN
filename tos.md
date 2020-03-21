@@ -93,7 +93,7 @@
 <li>We may choose to perform no action, warn you, terminate your account, increase your data cap usage or other account action.</li>
 <li>We won’t always inform you when hey have broken their terms of the agreement or when we have taken action.</li>
 </ul>
-<h2 id="limitations-to-our-promises">Limitations to our Promises</h2>
+<h2 id="limitations-to-our-promises">Limitations to our promises</h2>
 <ul>
 <li>We reserve the right to terminate your account at any time.</li>
 <li>We will comply with any requests from law enforcement and valid DMCA requests.
