@@ -35,7 +35,7 @@ No. See our [TOS](tos).
 
 ## Account & Financial
 ### Why do you require a Google account to sign up? Can I sign up anonymously?
-We require a Google account sign in to ensure that our services are not abused (eg. duplicate accounts, as burner emails are much easier to create and use than google accounts). We do not store or have access to any data associated with your google account except your name, email, and profile picture. This data is not connected with or cross-referenced to anything.
+We require a Google account sign in to ensure that our services are not abused (eg. duplicate accounts, as burner emails are much easier to create and use than google accounts). We do not store or have access to any data associated with your google account except your name, email, and profile picture. This data is not connected with or cross-referenced with any of your web traffic.
 If you would like to sign up with an email and password, [choose a paid plan](index#pricing) and [send us an email](contact-us). If you have special requirements or would like an alternate or more anonymous form of login, [send us an email](contact-us).
 
 ### Can I pay with Bitcoin / Litecoin / Monero / Ethereum / gold?
