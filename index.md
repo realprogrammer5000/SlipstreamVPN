@@ -22,7 +22,7 @@ Even our free plans allow for enough bandwidth to stream 2 simultaneous HD video
 |Servers    |Shared Server                    |Premium Shared server   |Private server in region you choose |1 private free, $6.99/server/month after    |
 |Data Cap   |5GB/month                        |50GB/month              |1TB/month                           |1TB free, $11.99/TB/month after             |
 |Bandwidth  |10Mbit/s                         |100Mbit/s               |1.5Gbit/s                           |1.5Gbit/server/second                       |
-|Support    |Email (3 day avg. response time) |Email (3 day avg. response time)    |Email (10 hour avg.)         |Priority email (5 hour avg.)    |
+|Support    |Email (3 business day avg. response time) |Email (2 business day avg. response time)    |Email (10 hour avg.)         |Priority email (5 hour avg.)    |
 |Purchase   |[Install it now](https://chrome.google.com/webstore/detail/slipstreamvpn-proxy-unblo/gfhkjbaojklnhgbnkkicgojopompeaog) |[Upgrade now](https://my.slipstreamvpn.tk)|[Upgrade now](https://my.slipstreamvpn.tk)|[Contact us](contact-us)                    |
 
 > [FAQ](faq)
