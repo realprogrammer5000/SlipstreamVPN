@@ -36,6 +36,9 @@ No. In fact, we block over 36,000 known ad and tracking sites. If an ad gets thr
 ### Can I use your services to access illegal content?
 No. See our [TOS](tos).
 
+### I'm not getting to my plan's speed. Are your advertised speeds symmetrical?
+We limit on our end the speed of your network traffic to the speed of the plan that you have. We don't limit upload speeds differently from downloads, although most consumer internet plans have much slower upload speeds, meaning your home internet connection might not be able to hit your plan's upload speed at all. If you have specific performance concerns, [send us an email](contact-us). If you want faster plan speeds, [upgrade your plan](https://my.slipstreamvpn.tk).
+
 ## Account & Financial
 ### Why do you require a Google account to sign up? Can I sign up anonymously?
 We require a Google account sign in to ensure that our services are not abused (eg. duplicate accounts, as burner emails are much easier to create and use than google accounts). We do not store or have access to any data associated with your google account except your name, email, and profile picture. This data is not connected with or cross-referenced with any of your web traffic.
