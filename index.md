@@ -8,7 +8,7 @@ Connect and create a free account (no credit card required) to start browsing pr
 [Install it now](#pricing), sign in and connect!
 
 ## Secure
-Your connection (even to HTTP sites)	is encrypted with SHA256 RSA and TLS v1.3 (the same encryption that connects you to online banking sites) with certificate transparency via LetsEncrypt. (We can promise encryption from you to our servers, but not from our servers to your final site.)
+Your connection to our servers is encrypted with SHA256 RSA and TLS v1.3 (the same encryption that connects you to online banking sites) with certificate transparency via LetsEncrypt.
 
 ## Private & No Logs
 We only store the minimum amount of data needed to keep our services secure, cheap and running. You can find out more at our [Terms of Service and privacy policy](tos). We do not log traffic that follows our Terms of Service.
