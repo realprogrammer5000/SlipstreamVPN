@@ -1,6 +1,7 @@
-### Don't let your ISP spy on you! Use our VPN!
+[![Download](https://slipstreamvpn.tk/download.png)](https://chrome.google.com/webstore/detail/slipstreamvpn-proxy-unblo/gfhkjbaojklnhgbnkkicgojopompeaog)
+Connect and create a free account (no credit card required) to start browsing privately!
 
-## Simple, secure, private, no logs, blocks ads, fast, and free.
+## Why SlipstreamVPN?
 ### Simple
 [Install it now](#pricing), sign in and connect!
 
