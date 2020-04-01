@@ -1,4 +1,4 @@
-[![Download](https://slipstreamvpn.tk/download.png)](https://chrome.google.com/webstore/detail/slipstreamvpn-proxy-unblo/gfhkjbaojklnhgbnkkicgojopompeaog | width=180)  
+[![Download](https://slipstreamvpn.tk/download.png width=180)](https://chrome.google.com/webstore/detail/slipstreamvpn-proxy-unblo/gfhkjbaojklnhgbnkkicgojopompeaog)  
 
 
 Connect and create a free account (no credit card required) to start browsing privately!
