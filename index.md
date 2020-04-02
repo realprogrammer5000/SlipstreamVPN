@@ -24,7 +24,7 @@ Some VPNs display ads in their clients, or worse, inject ads into websites you v
   
 ![](fast.small.png)  
 ## Fast  
-Even our free plans allow for enough bandwidth to stream 2 simultaneous HD videos with low latency. Paid plans allow for even faster speeds.  
+Even our free plans allow for enough bandwidth to stream 2 simultaneous HD videos with low latency. Paid plans allow for even faster speeds.   
   
 # Pricing  
   
