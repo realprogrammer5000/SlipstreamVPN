@@ -31,7 +31,7 @@ We don't care what you use our services for (HTTP, HTTPS, IMAP, SSH, FTP, BitTor
 We do not log any about traffic that follows our [Terms of Service](tos). We log how much data (in bytes) you've used every 30 seconds to enforce account data usage limits. We do not store historical data usage and your data usage counter is zeroed out between months.
 
 ### Do you inject ads?
-No. In fact, we block over 36,000 known ad and tracking sites. If an ad gets through, [send us an email](contact-us).
+No. In fact, we block over 36,000 known ad and tracking sites. If an ad gets through, [send us an email](contact-us) with a link to the site and any other relevant information.
 
 ### Can I use your services to access illegal content?
 No. See our [TOS](tos).
