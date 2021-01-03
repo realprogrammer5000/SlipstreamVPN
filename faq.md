@@ -2,13 +2,13 @@
 
 # FAQ
 ## Technical & Troubleshooting
-### It refuses to connect or frequently disconnects.
+### The VPN refuses to connect or frequently disconnects.
 Being disconnected once is likely due to a deploy of new server software and should be infrequent and brief. It is also possible that our servers are blocked on your network. If the issue still occurs on a different network, our servers are probably undergoing maintenance and should be working soon. If you have further problems, [send us an email](contact-us).
 
 ### Chrome is giving me an error message: "The proxy at ... requires a username and password."
 This is a temporary problem that is usually solved by dismissing the dialog, or failing that, disconnecting and reconnecting. It could also be a problem with your internet connection. If the problem persists, [send us an email](contact-us).
 
-### Why do you need to "read and change all my dat a on the websites I visit"?
+### Why do you need to "read and change all my data on the websites I visit"?
 This is a message displayed by Chrome when we request the permissions we need for the extension to work. We have [a full explanation of the permissions we use](permissions) if you'd like to know more.
 
 ### Can someone who's snooping on my web traffic see what sites I'm accessing or that I'm using a VPN?
