@@ -1,7 +1,7 @@
 > [Go home](/)
 
 # FAQ
-## Technical / Troubleshooting
+## Technical & Troubleshooting
 ### It refuses to connect or frequently disconnects.
 Being disconnected once is likely due to a deploy of new server software and should be infrequent and brief. It is also possible that our servers are blocked on your network. If the issue still occurs on a different network, our servers are probably undergoing maintenance and should be working soon. If you have further problems, [send us an email](contact-us).
 
@@ -26,7 +26,7 @@ Our servers are hosted in New York City via DigitalOcean, with more locations co
 ### Do you support IPv6?
 Yes.
 
-## Throttling / Logging / Service Rules
+## Throttling, Logging & Service Rules
 ###  Do you block or throttle traffic based on protocol or site? Are you torrent-friendly?
 We don't care what you use our services for (HTTP, HTTPS, IMAP, SSH, FTP, BitTorrent, Minecraft, etc) as long as it is legal and not otherwise a violation of our [Terms of Service](tos). We will never block or throttle traffic that is not in violation of our [Terms of Service](tos), with the exception of our ad and tracker blocking and the data/bandwidth limits of your plan. Note that "piracy" (infringement of copyright) is a violation of our terms of service and you assume full legal responsibility for all traffic originating from your account. 
 
