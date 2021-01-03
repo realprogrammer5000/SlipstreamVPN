@@ -13,7 +13,7 @@
 </ul>
 <h2 id="what-we-promise-you">What we promise you</h2>
 <blockquote>
-<p>Log means to write data to disk or any permanent location, including sending across a network. This does not include data stored in memory (RAM) or system swap. Some data may be stored temporarily in memory (ie. RAM or swap) as a consequence of how our servers work, but it is not stored permanently and expires (ie. is no longer in memory or swap) in an hour or less.</p>
+<p>Log means to write data to disk or any permanent location, including sending across a network. This does not include data stored in memory (RAM) or system swap. Some data may be stored temporarily in memory (ie. RAM or swap) as a required consequence of how our servers (and all servers) work, but it is not stored permanently and expires (ie. is no longer in memory or swap) in an hour or less.</p>
 </blockquote>
 <ul>
 <li><strong>We will not log your private data (as long as you follow the terms of this agreement)</strong>:
@@ -85,7 +85,7 @@
 </ul>
 </li>
 <li>
-<p>You assume full legal responsibility for all traffic originating from your account, including ensuring you follow all applicable laws and agreements with any applicable parties to the fullest extent of the law.</p>
+<p>You assume full legal responsibility for all traffic originating from your account, including ensuring you follow all applicable laws and agreements with any applicable parties to the fullest extent of the law.i</p>
 </li>
 </ul>
 <h2 id="if-you-break-your-promises">If you break your promises</h2>
