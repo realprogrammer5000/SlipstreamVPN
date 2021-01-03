@@ -5,7 +5,7 @@
 ### It refuses to connect or frequently disconnects.
 Being disconnected once is likely due to a deploy of new server software and should be infrequent and brief. It is also possible that our servers are blocked on your network. If the issue still occurs on a different network, our servers are probably undergoing maintenance and should be working soon. If you have further problems, [send us an email](contact-us).
 
-### Chrome is giving me an error message: "The proxy ... requires a username and password."
+### Chrome is giving me an error message: "The proxy at ... requires a username and password."
 This is a temporary problem that is usually solved by dismissing the dialog, or failing that, disconnecting and reconnecting. It could also be a problem with your internet connection. If the problem persists, [send us an email](contact-us).
 
 ### Why do you need to "read and change all my dat a on the websites I visit"?
