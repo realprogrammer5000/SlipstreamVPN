@@ -51,7 +51,7 @@ If you would like to sign up with an email and password, [choose a paid plan](in
 [Send us an email](contact-us).
 
 ### How do you make money?
-Donations, free trial credits from our webhost, and paid tiers support the free tiers entirely. Because of this, we do not attempt to make any money from the free plans. Because the free plans aren't profitable, we have to [limit them more aggressively than other plans](index#pricing) to ensure that they can stay free. If you'd like to donate to us, [send us an email](contact-us). 
+Donations, free trial credits from our webhost, and paid tiers support the free tiers entirely. Because of this, we do not attempt to make any money from our free plan. Because our free plan isn't profitable, we have to [limit them more aggressively than other plans](index#pricing) to ensure that they can stay free. If you'd like to donate to us, [send us an email](contact-us). 
 
 ### Can I get a discount?
 We would love to offer you promotional / bulk discount codes. [Send us an email](contact-us).
