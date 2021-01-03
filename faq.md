@@ -28,7 +28,7 @@ Our servers are hosted in New York City via DigitalOcean, with more locations co
 We don't care what you use our services for (HTTP, HTTPS, IMAP, SSH, FTP, BitTorrent, Minecraft, etc) as long as it is legal and not otherwise a violation of our [Terms of Service](tos). We will never block or throttle traffic that is not in violation of our [Terms of Service](tos), with the exception of our ad and tracker blocking and the data/bandwidth limits of your plan. Note that "piracy" (infringement of copyright) is a violation of our terms of service and you assume full legal responsibility for all traffic originating from your account. 
 
 ### Do you log or sell my data? 
-We do not log any about traffic that follows our [Terms of Service](tos). We log how much data (in bytes) you've used every 30 seconds to enforce account data usage limits. We do not store historical data usage and your data usage counter is zeroed out between months.
+We do not log any about traffic that follows our [Terms of Service](tos). We log how much data (in bytes) you've used every 30 seconds to enforce account data usage limits. We do not store historical data usage and your data usage counter is zeroed after the end of the month.
 
 ### Do you inject ads?
 No. In fact, we block over 36,000 known ad and tracking sites. If an ad gets through, [send us an email](contact-us) with a link to the site and any other relevant information.
