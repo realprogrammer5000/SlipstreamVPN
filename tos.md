@@ -90,12 +90,12 @@
 </ul>
 <h2 id="if-you-break-your-promises">If you break your promises</h2>
 <ul>
-<li>We may choose to perform no action, warn you, terminate your account, increase your data cap usage or other account action.</li>
+<li>We may choose to perform no action, warn you, terminate your account, increase your usage counted towards your data cap or other account action.</li>
 <li>We won’t always inform you when you have broken their terms of the agreement or when we have taken action.</li>
 </ul>
 <h2 id="limitations-to-our-promises">Limitations to our promises</h2>
 <ul>
-<li>We reserve the right to terminate your account at any time.</li>
+<li>We reserve the right to terminate your account at any time. (Any subscriptions will be subsequently cancelled.)</li>
 <li>We will comply with any requests from law enforcement and valid DMCA requests.
 <ul>
 <li>This may prevent us from following what we promise in the sections above.</li>
