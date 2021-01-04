@@ -85,7 +85,7 @@
 </ul>
 </li>
 <li>
-<p>You assume full legal responsibility for all traffic originating from your account, including ensuring you follow all applicable laws and agreements with any applicable parties to the fullest extent of the law.i</p>
+<p>You assume full legal responsibility for all traffic originating from your account, including ensuring you follow all applicable laws and agreements with any applicable parties to the fullest extent of the law.</p>
 </li>
 </ul>
 <h2 id="if-you-break-your-promises">If you break your promises</h2>
