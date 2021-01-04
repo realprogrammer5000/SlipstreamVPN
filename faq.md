@@ -20,11 +20,14 @@ We try our best to secure our servers using industry-standard technologies and b
 ### Can I use SlipstreamVPN in Chrome's incognito mode?
 Yes, but you'll need to give it permission to run in incognito mode. Click the extension icon, then click "Enable in incognito mode", and then follow the instructions shown. If no button appears, then you should already be good to go.
 
-### Where are your services hosted?
-Our servers are hosted in New York City via DigitalOcean, with more locations coming soon!
-
 ### Do you support IPv6?
 Yes.
+
+### Do you leak my IP via WebRTC or DNS?
+No.
+
+### Where are your services hosted?
+Our servers are hosted in New York City via DigitalOcean, with more locations coming soon!
 
 ## Throttling, Logging & Service Rules
 ###  Do you block or throttle traffic based on protocol or site? Are you torrent-friendly?
