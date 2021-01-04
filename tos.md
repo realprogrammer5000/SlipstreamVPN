@@ -68,7 +68,7 @@
 <ul>
 <li>No DoS / DDoS of our services or using our services to DoS / DDoS other sites</li>
 <li>No fraudulent / scam activity</li>
-<li>Only pay with payment that you are allowed to use</li>
+<li>Only pay with payment that you are authorized to use</li>
 <li>No illegal activity</li>
 <li>No rebranding, reselling, renting, leasing, loaning or bartering our services without our permission</li>
 <li>No breaking copyright laws (“piracy”)</li>
