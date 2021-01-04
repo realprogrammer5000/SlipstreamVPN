@@ -64,7 +64,7 @@
 <h2 id="what-you-promise-us">What you promise us</h2>
 <ul>
 <li>
-<p>You will not abuse our services,</p>
+<p>You will not abuse our services:</p>
 <ul>
 <li>No DoS / DDoS of our services or using our services to DoS / DDoS other sites</li>
 <li>No fraudulent / scam activity</li>
@@ -75,7 +75,7 @@
 </ul>
 </li>
 <li>
-<p>You will not abuse our software</p>
+<p>You will not abuse our software:</p>
 <blockquote>
 <p>“software” refers to any clients / websites / apps / programs we distribute to you</p>
 </blockquote>
