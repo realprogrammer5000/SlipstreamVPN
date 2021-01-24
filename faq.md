@@ -18,7 +18,7 @@ Nobody can see which sites you're accessing or what you're doing on them when yo
 We try our best to secure our servers using industry-standard technologies and best practices, although we cannot mention specifically how. All of your communications are encrypted with [Perfect Forward Secrecy](https://en.wikipedia.org/wiki/Forward_secrecy) as to ensure that even if someone records your encrypted communications and later steals a key from us, they cannot decrypt your past communications. If we become aware of a security breach, we will attempt to stop the attack as soon as possible and restore our services as soon as we can. We will inform you if such an attack occurs.
 
 ### Can I use SlipstreamVPN in Chrome's incognito mode?
-Yes, but you'll need to give it permission to run in incognito mode. Click the extension icon, then click "Enable in incognito mode", and then follow the instructions shown. If no button appears, then you should already be good to go.
+Yes, but you'll need to give it permission to run in incognito mode. Click the extension icon, then click "Allow in incognito mode", and then follow the instructions shown. If no button appears, then you should already be good to go.
 
 ### Do you support IPv6?
 Yes.
