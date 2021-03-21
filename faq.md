@@ -30,7 +30,7 @@ No.
 Our servers are hosted in New York City via DigitalOcean, with more locations coming soon!
 
 ### Can I use your VPN on Windows / MacOS / Linux / Android / iOS / whatever?
-Likely not, but if you have a client that supports a PAC file / URL, you can try using the PAC URL available in the client. You will need to ensure that you have a valid token and username, and that your client supports HTTPS CONNECT proxies.
+Likely not, but if you have a client that supports a PAC file / URL, you can try using the PAC URL available in the client. You will need to ensure that you have a valid token and username, and that your client supports HTTPS CONNECT proxies. Firefox works with this method.
 
 ## Throttling, Logging & Service Rules
 ###  Do you block or throttle traffic based on protocol or site? Are you torrent-friendly?
