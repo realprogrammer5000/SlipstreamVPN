@@ -29,6 +29,9 @@ No.
 ### Where are your services hosted?
 Our servers are hosted in New York City via DigitalOcean, with more locations coming soon!
 
+### Can I use your VPN on Windows / MacOS / Linux / Android / iOS / whatever?
+Likely not, but if you have a client that supports a PAC file / URL, you can try using the PAC URL available in the client. You will need to ensure that you have a valid token and username, and that your client supports HTTPS CONNECT proxies.
+
 ## Throttling, Logging & Service Rules
 ###  Do you block or throttle traffic based on protocol or site? Are you torrent-friendly?
 We don't care what you use our services for (HTTP, HTTPS, IMAP, SSH, FTP, BitTorrent, Minecraft, etc) as long as it is legal and not a violation of our [Terms of Service](tos). We will never block or throttle traffic that is not in violation of our [Terms of Service](tos), with the exception of our ad and tracker blocking and uniform throttling to the data/bandwidth limits of your plan. Note that "piracy" (infringement of copyright) is a violation of our terms of service and you assume full legal responsibility for all traffic originating from your account. 
