@@ -22,7 +22,7 @@ Some VPNs display ads in their clients, or worse, inject ads into websites you v
 ![](fast.small.png)  
 Even our free plans allow for enough bandwidth to stream 2 simultaneous HD videos with low latency. Paid plans allow for even faster speeds.    
 
-[![Download](https://slipstreamvpn.tk/download.png)](https://chrome.google.com/webstore/detail/slipstreamvpn-proxy-unblo/gfhkjbaojklnhgbnkkicgojopompeaog)      
+[![Download](https://slipstreamvpn.tk/download-smaller.png)](https://chrome.google.com/webstore/detail/slipstreamvpn-proxy-unblo/gfhkjbaojklnhgbnkkicgojopompeaog)      
 
 # Pricing  
   
