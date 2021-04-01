@@ -16,7 +16,7 @@ We only store the minimum amount of data needed to keep our services secure, che
 
 ## Blocks Ads  
 ![](blocksads.small.png)  
-Some VPNs display ads in their clients, or worse, inject ads into websites you visit. Instead, we block connections to over 150,000 known ad & tracking sites at the server for more performant blocking than browser-based blocking extensions, decreasing the data you use, improving page load times, and benefiting your privacy.  
+Some VPNs display ads in their clients, or worse, inject ads into websites you visit. Instead, we block connections to over 150,000 known ad & tracking sites at the server for more performant blocking than browser-based blocking extensions, decreasing the data you use, improving page load times, and improving your privacy.  
 
 ## Fast  
 ![](fast.small.png)  
