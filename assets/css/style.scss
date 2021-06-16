@@ -1,11 +1,21 @@
 ---
 ---
 
-/* $header-bg-color-secondary: #159957; 
+/* $header-bg-color-secondary: #159957;
 $header-bg-color: #155799; */
 @import "{{ site.theme }}";
 
 
 footer{
   display: none;
+}
+
+h1:target, h2:target, h3:target, h4:target, h5:target, h6:target {
+  text-decoration: underline;
+  background: #ff05;
+}
+
+h3:target + p {
+  background: #ff05;
+  background-clip: padding-box;
 }
